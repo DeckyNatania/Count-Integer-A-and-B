@@ -1,3 +1,3 @@
-# Count-Integer-A-and-B
+# Prototypes
 
-This is a prototype to count integer A and B
+These are prototype Java programs mainly dealing with numbers. 
